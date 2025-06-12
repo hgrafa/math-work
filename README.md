@@ -1,6 +1,6 @@
 ## Getting Started
 
-First, run the development server:
+First, run the development server (inside math-work folder):
 
 ```bash
 npm install
